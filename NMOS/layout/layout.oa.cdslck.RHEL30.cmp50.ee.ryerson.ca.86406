@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      t12khan
+HostName                       cmp50.ee.ryerson.ca
+ProcessIdentifier              86406
+ProcessCreationTime_UTC        1761590086
+ProcessCreationTime_Readable   Mon Oct 27 14:34:46 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/student1/t12khan/ele734/lab1/NMOS/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Oct 27 15:58:16 2025 EDT
